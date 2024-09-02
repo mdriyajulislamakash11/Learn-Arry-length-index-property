@@ -12,14 +12,15 @@ console.log(number[3])
 
 // amra caile kono ekta upadan ke ekta variable er moddhew rakhte pari ar seta ke variable diye access korte pari
 
-let fifth = number[4];
-console.log(fifth);
+// let fifth = number[4];
+// console.log(fifth);
 
 // set or ubdate element valur by index
 
-let abc = 86;
-abc = 69;
+// let abc = 86;
+// abc = 69;
 
-number[0] = 999;
-console.log(number)
+// ubdate element valur by index
+// number[0] = 999;
+// console.log(number)
 
